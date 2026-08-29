@@ -1,0 +1,4 @@
+Briefing: O briefing desse projeto é um problema recorrente de gestão de validade de bebidas em bares, 
+com esse projeto se espera alcançar mais agilidade e seguraça com relação aos vencimentos dos produtos, 
+o sistema cadastra, le, atualiza e deleta produto, armazenando as datas de validades de cada produto e libera 
+um aviso de que o produto vai vencer (o usuario escolhe com quantos dias de antecedencia ele quer receber o aviso).
